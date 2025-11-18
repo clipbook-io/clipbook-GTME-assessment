@@ -1,0 +1,100 @@
+{"id": "hr_001", "prospect_email": "alice.johnson@techcorp.com", "prospect_name": "Alice Johnson", "campaign": "Q1 Outbound Tech", "type": "send", "at": "2024-01-15T09:00:00Z"}
+{"id": "hr_002", "prospect_email": "bob.smith@startupco.io", "prospect_name": "Bob Smith", "campaign": "Q1 Outbound Tech", "type": "send", "at": "2024-01-15T09:15:00Z"}
+{"id": "hr_003", "prospect_email": "carol.white@enterprise.com", "prospect_name": "Carol White", "campaign": "Enterprise Leads", "type": "send", "at": "2024-01-15T10:00:00Z"}
+{"id": "hr_004", "prospect_email": "david.brown@finance.biz", "prospect_name": "David Brown", "campaign": "Finance Vertical", "type": "send", "at": "2024-01-15T10:30:00Z"}
+{"id": "hr_005", "prospect_email": "emma.davis@retail.com", "prospect_name": "Emma Davis", "campaign": "Retail Campaign", "type": "send", "at": "2024-01-15T11:00:00Z"}
+{"id": "hr_006", "prospect_email": "frank.miller@healthcare.org", "prospect_name": "Frank Miller", "campaign": "Healthcare Outreach", "type": "send", "at": "2024-01-15T11:30:00Z"}
+{"id": "hr_007", "prospect_email": "grace.wilson@consulting.com", "prospect_name": "Grace Wilson", "campaign": "Q1 Outbound Tech", "type": "send", "at": "2024-01-15T12:00:00Z"}
+{"id": "hr_008", "prospect_email": "henry.moore@logistics.net", "prospect_name": "Henry Moore", "campaign": "Logistics Leads", "type": "send", "at": "2024-01-15T12:30:00Z"}
+{"id": "hr_009", "prospect_email": "alice.johnson@techcorp.com", "prospect_name": "Alice Johnson", "campaign": "Q1 Outbound Tech", "type": "reply", "at": "2024-01-15T14:00:00Z", "text": "Hi! This looks interesting. Can we schedule a demo?"}
+{"id": "hr_010", "prospect_email": "isabel.taylor@manufacturing.com", "prospect_name": "Isabel Taylor", "campaign": "Manufacturing Push", "type": "send", "at": "2024-01-15T13:00:00Z"}
+{"id": "hr_011", "prospect_email": "jack.anderson@media.tv", "prospect_name": "Jack Anderson", "campaign": "Media & Entertainment", "type": "send", "at": "2024-01-15T13:30:00Z"}
+{"id": "hr_012", "prospect_email": "bob.smith@startupco.io", "prospect_name": "Bob Smith", "campaign": "Q1 Outbound Tech", "type": "reply", "at": "2024-01-15T15:00:00Z", "text": "Not interested at this time."}
+{"id": "hr_013", "prospect_email": "karen.thomas@education.edu", "prospect_name": "Karen Thomas", "campaign": "Education Sector", "type": "send", "at": "2024-01-15T14:00:00Z"}
+{"id": "hr_014", "prospect_email": "liam.jackson@realestate.com", "prospect_name": "Liam Jackson", "campaign": "Real Estate Q1", "type": "send", "at": "2024-01-15T14:30:00Z"}
+{"id": "hr_015", "prospect_email": "mia.martin@legal.law", "prospect_name": "Mia Martin", "campaign": "Legal Services", "type": "send", "at": "2024-01-15T15:00:00Z"}
+{"id": "hr_016", "prospect_email": "noah.garcia@automotive.com", "prospect_name": "Noah Garcia", "campaign": "Automotive Campaign", "type": "send", "at": "2024-01-15T15:30:00Z"}
+{"id": "hr_017", "prospect_email": "olivia.martinez@telecom.net", "prospect_name": "Olivia Martinez", "campaign": "Telecom Outreach", "type": "send", "at": "2024-01-15T16:00:00Z"}
+{"id": "hr_018", "prospect_email": "paul.rodriguez@energy.com", "prospect_name": "Paul Rodriguez", "campaign": "Energy Sector", "type": "send", "at": "2024-01-15T16:30:00Z"}
+{"id": "hr_019", "prospect_email": "quinn.hernandez@hospitality.com", "prospect_name": "Quinn Hernandez", "campaign": "Hospitality Push", "type": "send", "at": "2024-01-16T09:00:00Z"}
+{"id": "hr_020", "prospect_email": "rachel.lopez@insurance.com", "prospect_name": "Rachel Lopez", "campaign": "Insurance Leads", "type": "send", "at": "2024-01-16T09:30:00Z"}
+{"id": "hr_021", "prospect_email": "sam.gonzalez@construction.biz", "prospect_name": "Sam Gonzalez", "campaign": "Construction Campaign", "type": "send", "at": "2024-01-16T10:00:00Z"}
+{"id": "hr_022", "prospect_email": "tina.wilson@pharma.com", "prospect_name": "Tina Wilson", "campaign": "Pharma Outreach", "type": "send", "at": "2024-01-16T10:30:00Z"}
+{"id": "hr_023", "prospect_email": "carol.white@enterprise.com", "prospect_name": "Carol White", "campaign": "Enterprise Leads", "type": "reply", "at": "2024-01-16T11:00:00Z", "text": "We'd love to learn more. Please send pricing info."}
+{"id": "hr_024", "prospect_email": "uma.perez@transport.com", "prospect_name": "Uma Perez", "campaign": "Transport & Logistics", "type": "send", "at": "2024-01-16T11:00:00Z"}
+{"id": "hr_025", "prospect_email": "victor.sanchez@agriculture.com", "prospect_name": "Victor Sanchez", "campaign": "Agriculture Campaign", "type": "send", "at": "2024-01-16T11:30:00Z"}
+{"id": "hr_026", "prospect_email": "wendy.ramirez@nonprofit.org", "prospect_name": "Wendy Ramirez", "campaign": "Nonprofit Outreach", "type": "send", "at": "2024-01-16T12:00:00Z"}
+{"id": "hr_027", "prospect_email": "xander.torres@saas.io", "prospect_name": "Xander Torres", "campaign": "SaaS Companies", "type": "send", "at": "2024-01-16T12:30:00Z"}
+{"id": "hr_028", "prospect_email": "yara.flores@ecommerce.com", "prospect_name": "Yara Flores", "campaign": "Ecommerce Push", "type": "send", "at": "2024-01-16T13:00:00Z"}
+{"id": "hr_029", "prospect_email": "zoe.rivera@gaming.gg", "prospect_name": "Zoe Rivera", "campaign": "Gaming Industry", "type": "send", "at": "2024-01-16T13:30:00Z"}
+{"id": "hr_030", "prospect_email": "adam.cruz@banking.com", "prospect_name": "Adam Cruz", "campaign": "Banking Sector", "type": "send", "at": "2024-01-16T14:00:00Z"}
+{"id": "hr_031", "prospect_email": "bella.gomez@fashion.com", "prospect_name": "Bella Gomez", "campaign": "Fashion Brands", "type": "send", "at": "2024-01-16T14:30:00Z"}
+{"id": "hr_032", "prospect_email": "grace.wilson@consulting.com", "prospect_name": "Grace Wilson", "campaign": "Q1 Outbound Tech", "type": "reply", "at": "2024-01-16T15:00:00Z", "text": "Thanks for reaching out. Let's connect next week."}
+{"id": "hr_033", "prospect_email": "chris.morales@aerospace.com", "prospect_name": "Chris Morales", "campaign": "Aerospace Industry", "type": "send", "at": "2024-01-16T15:00:00Z"}
+{"id": "hr_034", "prospect_email": "diana.ortiz@biotech.com", "prospect_name": "Diana Ortiz", "campaign": "Biotech Campaign", "type": "send", "at": "2024-01-16T15:30:00Z"}
+{"id": "hr_035", "prospect_email": "ethan.jimenez@cybersecurity.io", "prospect_name": "Ethan Jimenez", "campaign": "Cybersecurity Focus", "type": "send", "at": "2024-01-16T16:00:00Z"}
+{"id": "hr_036", "prospect_email": "fiona.ruiz@marketing.com", "prospect_name": "Fiona Ruiz", "campaign": "Marketing Agencies", "type": "send", "at": "2024-01-16T16:30:00Z"}
+{"id": "hr_037", "prospect_email": "george.castillo@hr.com", "prospect_name": "George Castillo", "campaign": "HR Tech", "type": "send", "at": "2024-01-17T09:00:00Z"}
+{"id": "hr_038", "prospect_email": "hannah.reyes@fintech.io", "prospect_name": "Hannah Reyes", "campaign": "Fintech Startups", "type": "send", "at": "2024-01-17T09:30:00Z"}
+{"id": "hr_039", "prospect_email": "isaac.foster@cloud.com", "prospect_name": "Isaac Foster", "campaign": "Cloud Services", "type": "send", "at": "2024-01-17T10:00:00Z"}
+{"id": "hr_040", "prospect_email": "julia.sanders@mobile.app", "prospect_name": "Julia Sanders", "campaign": "Mobile App Companies", "type": "send", "at": "2024-01-17T10:30:00Z"}
+{"id": "hr_041", "prospect_email": "kevin.brooks@devtools.dev", "prospect_name": "Kevin Brooks", "campaign": "Developer Tools", "type": "send", "at": "2024-01-17T11:00:00Z"}
+{"id": "hr_042", "prospect_email": "laura.hughes@analytics.com", "prospect_name": "Laura Hughes", "campaign": "Analytics Platforms", "type": "send", "at": "2024-01-17T11:30:00Z"}
+{"id": "hr_043", "prospect_email": "marcus.kelly@ai.ml", "prospect_name": "Marcus Kelly", "campaign": "AI/ML Companies", "type": "send", "at": "2024-01-17T12:00:00Z"}
+{"id": "hr_044", "prospect_email": "nina.price@blockchain.crypto", "prospect_name": "Nina Price", "campaign": "Blockchain Startups", "type": "send", "at": "2024-01-17T12:30:00Z"}
+{"id": "hr_045", "prospect_email": "oliver.bennett@iot.tech", "prospect_name": "Oliver Bennett", "campaign": "IoT Solutions", "type": "send", "at": "2024-01-17T13:00:00Z"}
+{"id": "hr_046", "prospect_email": "paula.wood@robotics.com", "prospect_name": "Paula Wood", "campaign": "Robotics Industry", "type": "send", "at": "2024-01-17T13:30:00Z"}
+{"id": "hr_047", "prospect_email": "quincy.barnes@vr.tech", "prospect_name": "Quincy Barnes", "campaign": "VR/AR Companies", "type": "send", "at": "2024-01-17T14:00:00Z"}
+{"id": "hr_048", "prospect_email": "xander.torres@saas.io", "prospect_name": "Xander Torres", "campaign": "SaaS Companies", "type": "reply", "at": "2024-01-17T14:30:00Z", "text": "Interested! Can you share a case study?"}
+{"id": "hr_049", "prospect_email": "rita.ross@security.com", "prospect_name": "Rita Ross", "campaign": "Security Solutions", "type": "send", "at": "2024-01-17T14:30:00Z"}
+{"id": "hr_050", "prospect_email": "steve.coleman@data.io", "prospect_name": "Steve Coleman", "campaign": "Data Infrastructure", "type": "send", "at": "2024-01-17T15:00:00Z"}
+{"id": "hr_051", "prospect_email": "tara.jenkins@api.com", "prospect_name": "Tara Jenkins", "campaign": "API Platforms", "type": "send", "at": "2024-01-17T15:30:00Z"}
+{"id": "hr_052", "prospect_email": "umar.perry@devops.io", "prospect_name": "Umar Perry", "campaign": "DevOps Tools", "type": "send", "at": "2024-01-17T16:00:00Z"}
+{"id": "hr_053", "prospect_email": "vera.powell@testing.qa", "prospect_name": "Vera Powell", "campaign": "Testing Platforms", "type": "send", "at": "2024-01-17T16:30:00Z"}
+{"id": "hr_054", "prospect_email": "wade.long@monitoring.com", "prospect_name": "Wade Long", "campaign": "Monitoring Tools", "type": "send", "at": "2024-01-18T09:00:00Z"}
+{"id": "hr_055", "prospect_email": "xena.patterson@cicd.io", "prospect_name": "Xena Patterson", "campaign": "CI/CD Solutions", "type": "send", "at": "2024-01-18T09:30:00Z"}
+{"id": "hr_056", "prospect_email": "yusuf.hughes@container.tech", "prospect_name": "Yusuf Hughes", "campaign": "Container Platforms", "type": "send", "at": "2024-01-18T10:00:00Z"}
+{"id": "hr_057", "prospect_email": "zara.flores@serverless.io", "prospect_name": "Zara Flores", "campaign": "Serverless Computing", "type": "send", "at": "2024-01-18T10:30:00Z"}
+{"id": "hr_058", "prospect_email": "amy.washington@edge.net", "prospect_name": "Amy Washington", "campaign": "Edge Computing", "type": "send", "at": "2024-01-18T11:00:00Z"}
+{"id": "hr_059", "prospect_email": "ben.butler@5g.tech", "prospect_name": "Ben Butler", "campaign": "5G Solutions", "type": "send", "at": "2024-01-18T11:30:00Z"}
+{"id": "hr_060", "prospect_email": "chloe.simmons@quantum.tech", "prospect_name": "Chloe Simmons", "campaign": "Quantum Computing", "type": "send", "at": "2024-01-18T12:00:00Z"}
+{"id": "hr_061", "prospect_email": "derek.foster@greentech.eco", "prospect_name": "Derek Foster", "campaign": "Green Tech", "type": "send", "at": "2024-01-18T12:30:00Z"}
+{"id": "hr_062", "prospect_email": "ella.gonzales@cleanenergy.com", "prospect_name": "Ella Gonzales", "campaign": "Clean Energy", "type": "send", "at": "2024-01-18T13:00:00Z"}
+{"id": "hr_063", "prospect_email": "finn.bryant@ev.auto", "prospect_name": "Finn Bryant", "campaign": "EV Industry", "type": "send", "at": "2024-01-18T13:30:00Z"}
+{"id": "hr_064", "prospect_email": "gina.alexander@battery.tech", "prospect_name": "Gina Alexander", "campaign": "Battery Technology", "type": "send", "at": "2024-01-18T14:00:00Z"}
+{"id": "hr_065", "prospect_email": "hugo.russell@solar.energy", "prospect_name": "Hugo Russell", "campaign": "Solar Power", "type": "send", "at": "2024-01-18T14:30:00Z"}
+{"id": "hr_066", "prospect_email": "iris.griffin@wind.energy", "prospect_name": "Iris Griffin", "campaign": "Wind Energy", "type": "send", "at": "2024-01-18T15:00:00Z"}
+{"id": "hr_067", "prospect_email": "jake.diaz@hydrogen.fuel", "prospect_name": "Jake Diaz", "campaign": "Hydrogen Fuel", "type": "send", "at": "2024-01-18T15:30:00Z"}
+{"id": "hr_068", "prospect_email": "kara.hayes@carbon.tech", "prospect_name": "Kara Hayes", "campaign": "Carbon Capture", "type": "send", "at": "2024-01-18T16:00:00Z"}
+{"id": "hr_069", "prospect_email": "leo.myers@recycling.eco", "prospect_name": "Leo Myers", "campaign": "Recycling Tech", "type": "send", "at": "2024-01-18T16:30:00Z"}
+{"id": "hr_070", "prospect_email": "maya.ford@water.tech", "prospect_name": "Maya Ford", "campaign": "Water Technology", "type": "send", "at": "2024-01-19T09:00:00Z"}
+{"id": "hr_071", "prospect_email": "nate.reynolds@agtech.farm", "prospect_name": "Nate Reynolds", "campaign": "AgTech Solutions", "type": "send", "at": "2024-01-19T09:30:00Z"}
+{"id": "hr_072", "prospect_email": "olivia.martinez@telecom.net", "prospect_name": "Olivia Martinez", "campaign": "Telecom Outreach", "type": "reply", "at": "2024-01-19T10:00:00Z", "text": "This could be a good fit. Let's schedule a call."}
+{"id": "hr_073", "prospect_email": "owen.fisher@foodtech.com", "prospect_name": "Owen Fisher", "campaign": "Food Technology", "type": "send", "at": "2024-01-19T10:00:00Z"}
+{"id": "hr_074", "prospect_email": "penny.garza@delivery.com", "prospect_name": "Penny Garza", "campaign": "Delivery Services", "type": "send", "at": "2024-01-19T10:30:00Z"}
+{"id": "hr_075", "prospect_email": "quinn.hernandez@hospitality.com", "prospect_name": "Quinn Hernandez", "campaign": "Hospitality Push", "type": "reply", "at": "2024-01-19T11:00:00Z", "text": "Send me more details please."}
+{"id": "hr_076", "prospect_email": "riley.wallace@restaurant.biz", "prospect_name": "Riley Wallace", "campaign": "Restaurant Tech", "type": "send", "at": "2024-01-19T11:00:00Z"}
+{"id": "hr_077", "prospect_email": "sara.west@proptech.com", "prospect_name": "Sara West", "campaign": "PropTech Startups", "type": "send", "at": "2024-01-19T11:30:00Z"}
+{"id": "hr_078", "prospect_email": "tyler.cole@contech.build", "prospect_name": "Tyler Cole", "campaign": "Construction Tech", "type": "send", "at": "2024-01-19T12:00:00Z"}
+{"id": "hr_079", "prospect_email": "ursula.newman@smartcity.gov", "prospect_name": "Ursula Newman", "campaign": "Smart City Solutions", "type": "send", "at": "2024-01-19T12:30:00Z"}
+{"id": "hr_080", "prospect_email": "vince.hanson@mobility.tech", "prospect_name": "Vince Hanson", "campaign": "Mobility Solutions", "type": "send", "at": "2024-01-19T13:00:00Z"}
+{"id": "hr_081", "prospect_email": "willa.owens@micromobility.com", "prospect_name": "Willa Owens", "campaign": "Micromobility", "type": "send", "at": "2024-01-19T13:30:00Z"}
+{"id": "hr_082", "prospect_email": "xavier.kim@drone.tech", "prospect_name": "Xavier Kim", "campaign": "Drone Technology", "type": "send", "at": "2024-01-19T14:00:00Z"}
+{"id": "hr_083", "prospect_email": "yolanda.medina@autonomous.ai", "prospect_name": "Yolanda Medina", "campaign": "Autonomous Vehicles", "type": "send", "at": "2024-01-19T14:30:00Z"}
+{"id": "hr_084", "prospect_email": "zack.chapman@lidar.tech", "prospect_name": "Zack Chapman", "campaign": "LiDAR Technology", "type": "send", "at": "2024-01-19T15:00:00Z"}
+{"id": "hr_085", "prospect_email": "alice.johnston@sensors.io", "prospect_name": "Alice Johnston", "campaign": "Sensor Technology", "type": "send", "at": "2024-01-19T15:30:00Z"}
+{"id": "hr_086", "prospect_email": "brian.meyer@mapping.tech", "prospect_name": "Brian Meyer", "campaign": "Mapping Solutions", "type": "send", "at": "2024-01-19T16:00:00Z"}
+{"id": "hr_087", "prospect_email": "clara.sims@gps.nav", "prospect_name": "Clara Sims", "campaign": "GPS Navigation", "type": "send", "at": "2024-01-19T16:30:00Z"}
+{"id": "hr_088", "prospect_email": "daniel.cruz@location.tech", "prospect_name": "Daniel Cruz", "campaign": "Location Services", "type": "send", "at": "2024-01-20T09:00:00Z"}
+{"id": "hr_089", "prospect_email": "emily.hunt@geospatial.com", "prospect_name": "Emily Hunt", "campaign": "Geospatial Tech", "type": "send", "at": "2024-01-20T09:30:00Z"}
+{"id": "hr_090", "prospect_email": "fred.watts@satellite.space", "prospect_name": "Fred Watts", "campaign": "Satellite Tech", "type": "send", "at": "2024-01-20T10:00:00Z"}
+{"id": "hr_091", "prospect_email": "gail.berry@space.tech", "prospect_name": "Gail Berry", "campaign": "Space Technology", "type": "send", "at": "2024-01-20T10:30:00Z"}
+{"id": "hr_092", "prospect_email": "hank.richardson@launch.space", "prospect_name": "Hank Richardson", "campaign": "Launch Services", "type": "send", "at": "2024-01-20T11:00:00Z"}
+{"id": "hr_093", "prospect_email": "ivy.cox@satellite.comm", "prospect_name": "Ivy Cox", "campaign": "Satellite Communications", "type": "send", "at": "2024-01-20T11:30:00Z"}
+{"id": "hr_094", "prospect_email": "jason.howard@earthobs.sat", "prospect_name": "Jason Howard", "campaign": "Earth Observation", "type": "send", "at": "2024-01-20T12:00:00Z"}
+{"id": "hr_095", "prospect_email": "kate.ward@remote.sensing", "prospect_name": "Kate Ward", "campaign": "Remote Sensing", "type": "send", "at": "2024-01-20T12:30:00Z"}
+{"id": "hr_096", "prospect_email": "luke.torres@imagery.com", "prospect_name": "Luke Torres", "campaign": "Satellite Imagery", "type": "send", "at": "2024-01-20T13:00:00Z"}
+{"id": "hr_097", "prospect_email": "molly.peterson@weather.sat", "prospect_name": "Molly Peterson", "campaign": "Weather Satellites", "type": "send", "at": "2024-01-20T13:30:00Z"}
+{"id": "hr_098", "prospect_email": "neil.gray@climate.data", "prospect_name": "Neil Gray", "campaign": "Climate Data", "type": "send", "at": "2024-01-20T14:00:00Z"}
+{"id": "hr_099", "prospect_email": "oscar.ramirez@ocean.tech", "prospect_name": "Oscar Ramirez", "campaign": "Ocean Technology", "type": "send", "at": "2024-01-20T14:30:00Z"}
+{"id": "hr_100", "prospect_email": "patty.james@marine.bio", "prospect_name": "Patty James", "campaign": "Marine Biology Tech", "type": "send", "at": "2024-01-20T15:00:00Z"}

@@ -1,0 +1,100 @@
+{"id": "sf_001", "email": "alice.johnson@techcorp.com", "full_name": "Alice M. Johnson", "sequence": "Tech Leaders Q1", "type": "send", "at": "2024-01-15T09:05:00Z"}
+{"id": "sf_002", "email": "carol.white@enterprise.com", "full_name": "Carol White", "sequence": "Enterprise Outreach", "type": "send", "at": "2024-01-15T10:05:00Z"}
+{"id": "sf_003", "email": "david.brown@finance.biz", "full_name": "David Brown", "sequence": "Finance Decision Makers", "type": "send", "at": "2024-01-15T10:35:00Z"}
+{"id": "sf_004", "email": "emily.chen@startup.io", "full_name": "Emily Chen", "sequence": "Startup Founders", "type": "send", "at": "2024-01-15T11:05:00Z"}
+{"id": "sf_005", "email": "frank.miller@healthcare.org", "full_name": "Frank Miller", "sequence": "Healthcare Executives", "type": "send", "at": "2024-01-15T11:35:00Z"}
+{"id": "sf_006", "email": "grace.wilson@consulting.com", "full_name": "Grace Wilson", "sequence": "Tech Leaders Q1", "type": "send", "at": "2024-01-15T12:05:00Z"}
+{"id": "sf_007", "email": "isabel.taylor@manufacturing.com", "full_name": "Isabel Taylor", "sequence": "Manufacturing Leaders", "type": "send", "at": "2024-01-15T13:05:00Z"}
+{"id": "sf_008", "email": "jack.anderson@media.tv", "full_name": "Jack Anderson", "sequence": "Media Executives", "type": "send", "at": "2024-01-15T13:35:00Z"}
+{"id": "sf_009", "email": "karen.thomas@education.edu", "full_name": "Karen Thomas", "sequence": "Education Leaders", "type": "send", "at": "2024-01-15T14:05:00Z"}
+{"id": "sf_010", "email": "liam.jackson@realestate.com", "full_name": "Liam Jackson", "sequence": "Real Estate Pros", "type": "send", "at": "2024-01-15T14:35:00Z"}
+{"id": "sf_011", "email": "alice.johnson@techcorp.com", "full_name": "Alice M. Johnson", "sequence": "Tech Leaders Q1", "type": "reply", "at": "2024-01-15T16:00:00Z", "text": "Yes, Tuesday at 2pm works for me."}
+{"id": "sf_012", "email": "noah.garcia@automotive.com", "full_name": "Noah Garcia", "sequence": "Automotive Industry", "type": "send", "at": "2024-01-15T15:35:00Z"}
+{"id": "sf_013", "email": "olivia.martinez@telecom.net", "full_name": "Olivia Martinez", "sequence": "Telecom Leaders", "type": "send", "at": "2024-01-15T16:05:00Z"}
+{"id": "sf_014", "email": "paul.rodriguez@energy.com", "full_name": "Paul Rodriguez", "sequence": "Energy Sector", "type": "send", "at": "2024-01-15T16:35:00Z"}
+{"id": "sf_015", "email": "rachel.lopez@insurance.com", "full_name": "Rachel Lopez", "sequence": "Insurance Executives", "type": "send", "at": "2024-01-16T09:35:00Z"}
+{"id": "sf_016", "email": "sam.gonzalez@construction.biz", "full_name": "Sam Gonzalez", "sequence": "Construction Leaders", "type": "send", "at": "2024-01-16T10:05:00Z"}
+{"id": "sf_017", "email": "tina.wilson@pharma.com", "full_name": "Tina Wilson", "sequence": "Pharmaceutical Execs", "type": "send", "at": "2024-01-16T10:35:00Z"}
+{"id": "sf_018", "email": "carol.white@enterprise.com", "full_name": "Carol White", "sequence": "Enterprise Outreach", "type": "reply", "at": "2024-01-16T12:00:00Z", "text": "Here's our budget: $50k annually. Does that work?"}
+{"id": "sf_019", "email": "victor.sanchez@agriculture.com", "full_name": "Victor Sanchez", "sequence": "Agriculture Tech", "type": "send", "at": "2024-01-16T11:35:00Z"}
+{"id": "sf_020", "email": "wendy.ramirez@nonprofit.org", "full_name": "Wendy Ramirez", "sequence": "Nonprofit Leaders", "type": "send", "at": "2024-01-16T12:05:00Z"}
+{"id": "sf_021", "email": "xander.torres@saas.io", "full_name": "Xander Torres", "sequence": "SaaS Founders", "type": "send", "at": "2024-01-16T12:35:00Z"}
+{"id": "sf_022", "email": "yara.flores@ecommerce.com", "full_name": "Yara Flores", "sequence": "Ecommerce Leaders", "type": "send", "at": "2024-01-16T13:05:00Z"}
+{"id": "sf_023", "email": "adam.cruz@banking.com", "full_name": "Adam Cruz", "sequence": "Banking Executives", "type": "send", "at": "2024-01-16T14:05:00Z"}
+{"id": "sf_024", "email": "bella.gomez@fashion.com", "full_name": "Bella Gomez", "sequence": "Fashion Industry", "type": "send", "at": "2024-01-16T14:35:00Z"}
+{"id": "sf_025", "email": "chris.morales@aerospace.com", "full_name": "Chris Morales", "sequence": "Aerospace Leaders", "type": "send", "at": "2024-01-16T15:05:00Z"}
+{"id": "sf_026", "email": "diana.ortiz@biotech.com", "full_name": "Diana Ortiz", "sequence": "Biotech Executives", "type": "send", "at": "2024-01-16T15:35:00Z"}
+{"id": "sf_027", "email": "ethan.jimenez@cybersecurity.io", "full_name": "Ethan Jimenez", "sequence": "Cybersecurity Leaders", "type": "send", "at": "2024-01-16T16:05:00Z"}
+{"id": "sf_028", "email": "fiona.ruiz@marketing.com", "full_name": "Fiona Ruiz", "sequence": "Marketing Agency Heads", "type": "send", "at": "2024-01-16T16:35:00Z"}
+{"id": "sf_029", "email": "george.castillo@hr.com", "full_name": "George Castillo", "sequence": "HR Technology", "type": "send", "at": "2024-01-17T09:05:00Z"}
+{"id": "sf_030", "email": "hannah.reyes@fintech.io", "full_name": "Hannah Reyes", "sequence": "Fintech Founders", "type": "send", "at": "2024-01-17T09:35:00Z"}
+{"id": "sf_031", "email": "isaac.foster@cloud.com", "full_name": "Isaac Foster", "sequence": "Cloud Infrastructure", "type": "send", "at": "2024-01-17T10:05:00Z"}
+{"id": "sf_032", "email": "julia.sanders@mobile.app", "full_name": "Julia Sanders", "sequence": "Mobile App Leaders", "type": "send", "at": "2024-01-17T10:35:00Z"}
+{"id": "sf_033", "email": "kevin.brooks@devtools.dev", "full_name": "Kevin Brooks", "sequence": "Developer Tools", "type": "send", "at": "2024-01-17T11:05:00Z"}
+{"id": "sf_034", "email": "laura.hughes@analytics.com", "full_name": "Laura Hughes", "sequence": "Analytics Leaders", "type": "send", "at": "2024-01-17T11:35:00Z"}
+{"id": "sf_035", "email": "marcus.kelly@ai.ml", "full_name": "Marcus Kelly", "sequence": "AI/ML Startups", "type": "send", "at": "2024-01-17T12:05:00Z"}
+{"id": "sf_036", "email": "nina.price@blockchain.crypto", "full_name": "Nina Price", "sequence": "Blockchain Leaders", "type": "send", "at": "2024-01-17T12:35:00Z"}
+{"id": "sf_037", "email": "oliver.bennett@iot.tech", "full_name": "Oliver Bennett", "sequence": "IoT Companies", "type": "send", "at": "2024-01-17T13:05:00Z"}
+{"id": "sf_038", "email": "paula.wood@robotics.com", "full_name": "Paula Wood", "sequence": "Robotics Leaders", "type": "send", "at": "2024-01-17T13:35:00Z"}
+{"id": "sf_039", "email": "quincy.barnes@vr.tech", "full_name": "Quincy Barnes", "sequence": "VR/AR Leaders", "type": "send", "at": "2024-01-17T14:05:00Z"}
+{"id": "sf_040", "email": "rita.ross@security.com", "full_name": "Rita Ross", "sequence": "Security Platforms", "type": "send", "at": "2024-01-17T14:35:00Z"}
+{"id": "sf_041", "email": "steve.coleman@data.io", "full_name": "Steve Coleman", "sequence": "Data Infrastructure", "type": "send", "at": "2024-01-17T15:05:00Z"}
+{"id": "sf_042", "email": "xander.torres@saas.io", "full_name": "Xander Torres", "sequence": "SaaS Founders", "type": "reply", "at": "2024-01-17T16:00:00Z", "text": "Absolutely! Here's a link to our implementation: https://example.com/case-study"}
+{"id": "sf_043", "email": "tara.jenkins@api.com", "full_name": "Tara Jenkins", "sequence": "API Platforms", "type": "send", "at": "2024-01-17T15:35:00Z"}
+{"id": "sf_044", "email": "umar.perry@devops.io", "full_name": "Umar Perry", "sequence": "DevOps Leaders", "type": "send", "at": "2024-01-17T16:05:00Z"}
+{"id": "sf_045", "email": "vera.powell@testing.qa", "full_name": "Vera Powell", "sequence": "Testing Platforms", "type": "send", "at": "2024-01-17T16:35:00Z"}
+{"id": "sf_046", "email": "wade.long@monitoring.com", "full_name": "Wade Long", "sequence": "Monitoring Solutions", "type": "send", "at": "2024-01-18T09:05:00Z"}
+{"id": "sf_047", "email": "xena.patterson@cicd.io", "full_name": "Xena Patterson", "sequence": "CI/CD Tools", "type": "send", "at": "2024-01-18T09:35:00Z"}
+{"id": "sf_048", "email": "yusuf.hughes@container.tech", "full_name": "Yusuf Hughes", "sequence": "Container Solutions", "type": "send", "at": "2024-01-18T10:05:00Z"}
+{"id": "sf_049", "email": "zara.flores@serverless.io", "full_name": "Zara Flores", "sequence": "Serverless Leaders", "type": "send", "at": "2024-01-18T10:35:00Z"}
+{"id": "sf_050", "email": "amy.washington@edge.net", "full_name": "Amy Washington", "sequence": "Edge Computing", "type": "send", "at": "2024-01-18T11:05:00Z"}
+{"id": "sf_051", "email": "ben.butler@5g.tech", "full_name": "Ben Butler", "sequence": "5G Technology", "type": "send", "at": "2024-01-18T11:35:00Z"}
+{"id": "sf_052", "email": "chloe.simmons@quantum.tech", "full_name": "Chloe Simmons", "sequence": "Quantum Computing", "type": "send", "at": "2024-01-18T12:05:00Z"}
+{"id": "sf_053", "email": "derek.foster@greentech.eco", "full_name": "Derek Foster", "sequence": "Green Technology", "type": "send", "at": "2024-01-18T12:35:00Z"}
+{"id": "sf_054", "email": "ella.gonzales@cleanenergy.com", "full_name": "Ella Gonzales", "sequence": "Clean Energy", "type": "send", "at": "2024-01-18T13:05:00Z"}
+{"id": "sf_055", "email": "finn.bryant@ev.auto", "full_name": "Finn Bryant", "sequence": "Electric Vehicles", "type": "send", "at": "2024-01-18T13:35:00Z"}
+{"id": "sf_056", "email": "gina.alexander@battery.tech", "full_name": "Gina Alexander", "sequence": "Battery Tech", "type": "send", "at": "2024-01-18T14:05:00Z"}
+{"id": "sf_057", "email": "hugo.russell@solar.energy", "full_name": "Hugo Russell", "sequence": "Solar Energy", "type": "send", "at": "2024-01-18T14:35:00Z"}
+{"id": "sf_058", "email": "iris.griffin@wind.energy", "full_name": "Iris Griffin", "sequence": "Wind Power", "type": "send", "at": "2024-01-18T15:05:00Z"}
+{"id": "sf_059", "email": "jake.diaz@hydrogen.fuel", "full_name": "Jake Diaz", "sequence": "Hydrogen Energy", "type": "send", "at": "2024-01-18T15:35:00Z"}
+{"id": "sf_060", "email": "kara.hayes@carbon.tech", "full_name": "Kara Hayes", "sequence": "Carbon Solutions", "type": "send", "at": "2024-01-18T16:05:00Z"}
+{"id": "sf_061", "email": "leo.myers@recycling.eco", "full_name": "Leo Myers", "sequence": "Recycling Innovation", "type": "send", "at": "2024-01-18T16:35:00Z"}
+{"id": "sf_062", "email": "maya.ford@water.tech", "full_name": "Maya Ford", "sequence": "Water Tech", "type": "send", "at": "2024-01-19T09:05:00Z"}
+{"id": "sf_063", "email": "nate.reynolds@agtech.farm", "full_name": "Nate Reynolds", "sequence": "Agriculture Tech", "type": "send", "at": "2024-01-19T09:35:00Z"}
+{"id": "sf_064", "email": "owen.fisher@foodtech.com", "full_name": "Owen Fisher", "sequence": "Food Technology", "type": "send", "at": "2024-01-19T10:05:00Z"}
+{"id": "sf_065", "email": "penny.garza@delivery.com", "full_name": "Penny Garza", "sequence": "Delivery Tech", "type": "send", "at": "2024-01-19T10:35:00Z"}
+{"id": "sf_066", "email": "quinn.hernandez@hospitality.com", "full_name": "Quinn Hernandez", "sequence": "Hospitality Tech", "type": "send", "at": "2024-01-19T11:05:00Z"}
+{"id": "sf_067", "email": "riley.wallace@restaurant.biz", "full_name": "Riley Wallace", "sequence": "Restaurant Tech", "type": "send", "at": "2024-01-19T11:35:00Z"}
+{"id": "sf_068", "email": "sara.west@proptech.com", "full_name": "Sara West", "sequence": "Property Tech", "type": "send", "at": "2024-01-19T12:05:00Z"}
+{"id": "sf_069", "email": "tyler.cole@contech.build", "full_name": "Tyler Cole", "sequence": "Construction Tech", "type": "send", "at": "2024-01-19T12:35:00Z"}
+{"id": "sf_070", "email": "olivia.martinez@telecom.net", "full_name": "Olivia Martinez", "sequence": "Telecom Leaders", "type": "reply", "at": "2024-01-19T11:00:00Z", "text": "Perfect timing! We just got budget approval."}
+{"id": "sf_071", "email": "ursula.newman@smartcity.gov", "full_name": "Ursula Newman", "sequence": "Smart Cities", "type": "send", "at": "2024-01-19T13:05:00Z"}
+{"id": "sf_072", "email": "vince.hanson@mobility.tech", "full_name": "Vince Hanson", "sequence": "Mobility Tech", "type": "send", "at": "2024-01-19T13:35:00Z"}
+{"id": "sf_073", "email": "willa.owens@micromobility.com", "full_name": "Willa Owens", "sequence": "Micromobility", "type": "send", "at": "2024-01-19T14:05:00Z"}
+{"id": "sf_074", "email": "xavier.kim@drone.tech", "full_name": "Xavier Kim", "sequence": "Drone Solutions", "type": "send", "at": "2024-01-19T14:35:00Z"}
+{"id": "sf_075", "email": "yolanda.medina@autonomous.ai", "full_name": "Yolanda Medina", "sequence": "Autonomous Tech", "type": "send", "at": "2024-01-19T15:05:00Z"}
+{"id": "sf_076", "email": "zack.chapman@lidar.tech", "full_name": "Zack Chapman", "sequence": "LiDAR Solutions", "type": "send", "at": "2024-01-19T15:35:00Z"}
+{"id": "sf_077", "email": "alice.johnston@sensors.io", "full_name": "Alice Johnston", "sequence": "Sensor Tech", "type": "send", "at": "2024-01-19T16:05:00Z"}
+{"id": "sf_078", "email": "brian.meyer@mapping.tech", "full_name": "Brian Meyer", "sequence": "Mapping Tech", "type": "send", "at": "2024-01-19T16:35:00Z"}
+{"id": "sf_079", "email": "clara.sims@gps.nav", "full_name": "Clara Sims", "sequence": "GPS Technology", "type": "send", "at": "2024-01-20T09:05:00Z"}
+{"id": "sf_080", "email": "daniel.cruz@location.tech", "full_name": "Daniel Cruz", "sequence": "Location Tech", "type": "send", "at": "2024-01-20T09:35:00Z"}
+{"id": "sf_081", "email": "emily.hunt@geospatial.com", "full_name": "Emily Hunt", "sequence": "Geospatial Solutions", "type": "send", "at": "2024-01-20T10:05:00Z"}
+{"id": "sf_082", "email": "fred.watts@satellite.space", "full_name": "Fred Watts", "sequence": "Satellite Tech", "type": "send", "at": "2024-01-20T10:35:00Z"}
+{"id": "sf_083", "email": "gail.berry@space.tech", "full_name": "Gail Berry", "sequence": "Space Tech", "type": "send", "at": "2024-01-20T11:05:00Z"}
+{"id": "sf_084", "email": "hank.richardson@launch.space", "full_name": "Hank Richardson", "sequence": "Launch Tech", "type": "send", "at": "2024-01-20T11:35:00Z"}
+{"id": "sf_085", "email": "ivy.cox@satellite.comm", "full_name": "Ivy Cox", "sequence": "Satellite Comms", "type": "send", "at": "2024-01-20T12:05:00Z"}
+{"id": "sf_086", "email": "jason.howard@earthobs.sat", "full_name": "Jason Howard", "sequence": "Earth Observation", "type": "send", "at": "2024-01-20T12:35:00Z"}
+{"id": "sf_087", "email": "kate.ward@remote.sensing", "full_name": "Kate Ward", "sequence": "Remote Sensing", "type": "send", "at": "2024-01-20T13:05:00Z"}
+{"id": "sf_088", "email": "luke.torres@imagery.com", "full_name": "Luke Torres", "sequence": "Satellite Imagery", "type": "send", "at": "2024-01-20T13:35:00Z"}
+{"id": "sf_089", "email": "molly.peterson@weather.sat", "full_name": "Molly Peterson", "sequence": "Weather Tech", "type": "send", "at": "2024-01-20T14:05:00Z"}
+{"id": "sf_090", "email": "neil.gray@climate.data", "full_name": "Neil Gray", "sequence": "Climate Data", "type": "send", "at": "2024-01-20T14:35:00Z"}
+{"id": "sf_091", "email": "oscar.ramirez@ocean.tech", "full_name": "Oscar Ramirez", "sequence": "Ocean Tech", "type": "send", "at": "2024-01-20T15:05:00Z"}
+{"id": "sf_092", "email": "patty.james@marine.bio", "full_name": "Patty James", "sequence": "Marine Biology Tech", "type": "send", "at": "2024-01-20T15:35:00Z"}
+{"id": "sf_093", "email": "robert.kim@aquaculture.fish", "full_name": "Robert Kim", "sequence": "Aquaculture Tech", "type": "send", "at": "2024-01-20T16:05:00Z"}
+{"id": "sf_094", "email": "sophia.lee@fisheries.com", "full_name": "Sophia Lee", "sequence": "Fisheries Management", "type": "send", "at": "2024-01-20T16:35:00Z"}
+{"id": "sf_095", "email": "thomas.park@maritime.ship", "full_name": "Thomas Park", "sequence": "Maritime Tech", "type": "send", "at": "2024-01-21T09:05:00Z"}
+{"id": "sf_096", "email": "una.choi@shipping.logistics", "full_name": "Una Choi", "sequence": "Shipping Logistics", "type": "send", "at": "2024-01-21T09:35:00Z"}
+{"id": "sf_097", "email": "victor.jung@port.tech", "full_name": "Victor Jung", "sequence": "Port Technology", "type": "send", "at": "2024-01-21T10:05:00Z"}
+{"id": "sf_098", "email": "wendy.han@cargo.track", "full_name": "Wendy Han", "sequence": "Cargo Tracking", "type": "send", "at": "2024-01-21T10:35:00Z"}
+{"id": "sf_099", "email": "xavier.yoon@vessel.monitor", "full_name": "Xavier Yoon", "sequence": "Vessel Monitoring", "type": "send", "at": "2024-01-21T11:05:00Z"}
+{"id": "sf_100", "email": "yuki.tanaka@fleet.manage", "full_name": "Yuki Tanaka", "sequence": "Fleet Management", "type": "send", "at": "2024-01-21T11:35:00Z"}

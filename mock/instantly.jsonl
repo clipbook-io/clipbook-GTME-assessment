@@ -1,0 +1,100 @@
+{"id": "inst_001", "contact": {"email": "alice.johnson@techcorp.com", "name": "Alice Johnson"}, "campaign_name": "Tech Industry Push", "type": "send", "timestamp": "2024-01-15T09:10:00Z"}
+{"id": "inst_002", "contact": {"email": "bob.smith@startupco.io", "name": "Bob Smith"}, "campaign_name": "Startup Outreach", "type": "send", "timestamp": "2024-01-15T09:20:00Z"}
+{"id": "inst_003", "contact": {"email": "carol.white@enterprise.com", "name": "Carol J. White"}, "campaign_name": "Enterprise Sales", "type": "send", "timestamp": "2024-01-15T10:10:00Z"}
+{"id": "inst_004", "contact": {"email": "emily.chen@startup.io", "name": "Emily Chen"}, "campaign_name": "Startup Outreach", "type": "send", "timestamp": "2024-01-15T11:10:00Z"}
+{"id": "inst_005", "contact": {"email": "frank.miller@healthcare.org", "name": "Frank Miller"}, "campaign_name": "Healthcare Campaign", "type": "send", "timestamp": "2024-01-15T11:40:00Z"}
+{"id": "inst_006", "contact": {"email": "grace.wilson@consulting.com", "name": "Grace Wilson"}, "campaign_name": "Tech Industry Push", "type": "send", "timestamp": "2024-01-15T12:10:00Z"}
+{"id": "inst_007", "contact": {"email": "henry.moore@logistics.net", "name": "Henry Moore"}, "campaign_name": "Logistics Outreach", "type": "send", "timestamp": "2024-01-15T12:40:00Z"}
+{"id": "inst_008", "contact": {"email": "isabel.taylor@manufacturing.com", "name": "Isabel Taylor"}, "campaign_name": "Manufacturing Campaign", "type": "send", "timestamp": "2024-01-15T13:10:00Z"}
+{"id": "inst_009", "contact": {"email": "karen.thomas@education.edu", "name": "Karen Thomas"}, "campaign_name": "Education Push", "type": "send", "timestamp": "2024-01-15T14:10:00Z"}
+{"id": "inst_010", "contact": {"email": "mia.martin@legal.law", "name": "Mia Martin"}, "campaign_name": "Legal Services", "type": "send", "timestamp": "2024-01-15T15:10:00Z"}
+{"id": "inst_011", "contact": {"email": "noah.garcia@automotive.com", "name": "Noah Garcia"}, "campaign_name": "Automotive Outreach", "type": "send", "timestamp": "2024-01-15T15:40:00Z"}
+{"id": "inst_012", "contact": {"email": "paul.rodriguez@energy.com", "name": "Paul Rodriguez"}, "campaign_name": "Energy Campaign", "type": "send", "timestamp": "2024-01-15T16:40:00Z"}
+{"id": "inst_013", "contact": {"email": "quinn.hernandez@hospitality.com", "name": "Quinn Hernandez"}, "campaign_name": "Hospitality Outreach", "type": "send", "timestamp": "2024-01-16T09:10:00Z"}
+{"id": "inst_014", "contact": {"email": "rachel.lopez@insurance.com", "name": "Rachel Lopez"}, "campaign_name": "Insurance Push", "type": "send", "timestamp": "2024-01-16T09:40:00Z"}
+{"id": "inst_015", "contact": {"email": "tina.wilson@pharma.com", "name": "Tina Wilson"}, "campaign_name": "Pharma Campaign", "type": "send", "timestamp": "2024-01-16T10:40:00Z"}
+{"id": "inst_016", "contact": {"email": "uma.perez@transport.com", "name": "Uma Perez"}, "campaign_name": "Transport Push", "type": "send", "timestamp": "2024-01-16T11:10:00Z"}
+{"id": "inst_017", "contact": {"email": "wendy.ramirez@nonprofit.org", "name": "Wendy Ramirez"}, "campaign_name": "Nonprofit Outreach", "type": "send", "timestamp": "2024-01-16T12:10:00Z"}
+{"id": "inst_018", "contact": {"email": "xander.torres@saas.io", "name": "Xander Torres"}, "campaign_name": "SaaS Campaign", "type": "send", "timestamp": "2024-01-16T12:40:00Z"}
+{"id": "inst_019", "contact": {"email": "yara.flores@ecommerce.com", "name": "Yara Flores"}, "campaign_name": "Ecommerce Push", "type": "send", "timestamp": "2024-01-16T13:10:00Z"}
+{"id": "inst_020", "contact": {"email": "zoe.rivera@gaming.gg", "name": "Zoe Rivera"}, "campaign_name": "Gaming Outreach", "type": "send", "timestamp": "2024-01-16T13:40:00Z"}
+{"id": "inst_021", "contact": {"email": "carol.white@enterprise.com", "name": "Carol J. White"}, "campaign_name": "Enterprise Sales", "type": "reply", "timestamp": "2024-01-16T13:00:00Z", "body": "Can we get on a call this week?"}
+{"id": "inst_022", "contact": {"email": "bella.gomez@fashion.com", "name": "Bella Gomez"}, "campaign_name": "Fashion Campaign", "type": "send", "timestamp": "2024-01-16T14:40:00Z"}
+{"id": "inst_023", "contact": {"email": "chris.morales@aerospace.com", "name": "Chris Morales"}, "campaign_name": "Aerospace Push", "type": "send", "timestamp": "2024-01-16T15:10:00Z"}
+{"id": "inst_024", "contact": {"email": "diana.ortiz@biotech.com", "name": "Diana Ortiz"}, "campaign_name": "Biotech Outreach", "type": "send", "timestamp": "2024-01-16T15:40:00Z"}
+{"id": "inst_025", "contact": {"email": "ethan.jimenez@cybersecurity.io", "name": "Ethan Jimenez"}, "campaign_name": "Cybersecurity Campaign", "type": "send", "timestamp": "2024-01-16T16:10:00Z"}
+{"id": "inst_026", "contact": {"email": "george.castillo@hr.com", "name": "George Castillo"}, "campaign_name": "HR Tech Push", "type": "send", "timestamp": "2024-01-17T09:10:00Z"}
+{"id": "inst_027", "contact": {"email": "hannah.reyes@fintech.io", "name": "Hannah Reyes"}, "campaign_name": "Fintech Outreach", "type": "send", "timestamp": "2024-01-17T09:40:00Z"}
+{"id": "inst_028", "contact": {"email": "isaac.foster@cloud.com", "name": "Isaac Foster"}, "campaign_name": "Cloud Campaign", "type": "send", "timestamp": "2024-01-17T10:10:00Z"}
+{"id": "inst_029", "contact": {"email": "julia.sanders@mobile.app", "name": "Julia Sanders"}, "campaign_name": "Mobile App Push", "type": "send", "timestamp": "2024-01-17T10:40:00Z"}
+{"id": "inst_030", "contact": {"email": "laura.hughes@analytics.com", "name": "Laura Hughes"}, "campaign_name": "Analytics Outreach", "type": "send", "timestamp": "2024-01-17T11:40:00Z"}
+{"id": "inst_031", "contact": {"email": "marcus.kelly@ai.ml", "name": "Marcus Kelly"}, "campaign_name": "AI/ML Campaign", "type": "send", "timestamp": "2024-01-17T12:10:00Z"}
+{"id": "inst_032", "contact": {"email": "nina.price@blockchain.crypto", "name": "Nina Price"}, "campaign_name": "Blockchain Push", "type": "send", "timestamp": "2024-01-17T12:40:00Z"}
+{"id": "inst_033", "contact": {"email": "oliver.bennett@iot.tech", "name": "Oliver Bennett"}, "campaign_name": "IoT Outreach", "type": "send", "timestamp": "2024-01-17T13:10:00Z"}
+{"id": "inst_034", "contact": {"email": "quincy.barnes@vr.tech", "name": "Quincy Barnes"}, "campaign_name": "VR/AR Campaign", "type": "send", "timestamp": "2024-01-17T14:10:00Z"}
+{"id": "inst_035", "contact": {"email": "rita.ross@security.com", "name": "Rita Ross"}, "campaign_name": "Security Push", "type": "send", "timestamp": "2024-01-17T14:40:00Z"}
+{"id": "inst_036", "contact": {"email": "steve.coleman@data.io", "name": "Steve Coleman"}, "campaign_name": "Data Infra Campaign", "type": "send", "timestamp": "2024-01-17T15:10:00Z"}
+{"id": "inst_037", "contact": {"email": "tara.jenkins@api.com", "name": "Tara Jenkins"}, "campaign_name": "API Platform Push", "type": "send", "timestamp": "2024-01-17T15:40:00Z"}
+{"id": "inst_038", "contact": {"email": "umar.perry@devops.io", "name": "Umar Perry"}, "campaign_name": "DevOps Outreach", "type": "send", "timestamp": "2024-01-17T16:10:00Z"}
+{"id": "inst_039", "contact": {"email": "wade.long@monitoring.com", "name": "Wade Long"}, "campaign_name": "Monitoring Campaign", "type": "send", "timestamp": "2024-01-18T09:10:00Z"}
+{"id": "inst_040", "contact": {"email": "xena.patterson@cicd.io", "name": "Xena Patterson"}, "campaign_name": "CI/CD Push", "type": "send", "timestamp": "2024-01-18T09:40:00Z"}
+{"id": "inst_041", "contact": {"email": "yusuf.hughes@container.tech", "name": "Yusuf Hughes"}, "campaign_name": "Container Outreach", "type": "send", "timestamp": "2024-01-18T10:10:00Z"}
+{"id": "inst_042", "contact": {"email": "amy.washington@edge.net", "name": "Amy Washington"}, "campaign_name": "Edge Computing Campaign", "type": "send", "timestamp": "2024-01-18T11:10:00Z"}
+{"id": "inst_043", "contact": {"email": "ben.butler@5g.tech", "name": "Ben Butler"}, "campaign_name": "5G Push", "type": "send", "timestamp": "2024-01-18T11:40:00Z"}
+{"id": "inst_044", "contact": {"email": "derek.foster@greentech.eco", "name": "Derek Foster"}, "campaign_name": "Green Tech Outreach", "type": "send", "timestamp": "2024-01-18T12:40:00Z"}
+{"id": "inst_045", "contact": {"email": "finn.bryant@ev.auto", "name": "Finn Bryant"}, "campaign_name": "EV Campaign", "type": "send", "timestamp": "2024-01-18T13:40:00Z"}
+{"id": "inst_046", "contact": {"email": "gina.alexander@battery.tech", "name": "Gina Alexander"}, "campaign_name": "Battery Tech Push", "type": "send", "timestamp": "2024-01-18T14:10:00Z"}
+{"id": "inst_047", "contact": {"email": "hugo.russell@solar.energy", "name": "Hugo Russell"}, "campaign_name": "Solar Outreach", "type": "send", "timestamp": "2024-01-18T14:40:00Z"}
+{"id": "inst_048", "contact": {"email": "iris.griffin@wind.energy", "name": "Iris Griffin"}, "campaign_name": "Wind Campaign", "type": "send", "timestamp": "2024-01-18T15:10:00Z"}
+{"id": "inst_049", "contact": {"email": "jake.diaz@hydrogen.fuel", "name": "Jake Diaz"}, "campaign_name": "Hydrogen Push", "type": "send", "timestamp": "2024-01-18T15:40:00Z"}
+{"id": "inst_050", "contact": {"email": "kara.hayes@carbon.tech", "name": "Kara Hayes"}, "campaign_name": "Carbon Tech Outreach", "type": "send", "timestamp": "2024-01-18T16:10:00Z"}
+{"id": "inst_051", "contact": {"email": "leo.myers@recycling.eco", "name": "Leo Myers"}, "campaign_name": "Recycling Campaign", "type": "send", "timestamp": "2024-01-18T16:40:00Z"}
+{"id": "inst_052", "contact": {"email": "maya.ford@water.tech", "name": "Maya Ford"}, "campaign_name": "Water Tech Push", "type": "send", "timestamp": "2024-01-19T09:10:00Z"}
+{"id": "inst_053", "contact": {"email": "nate.reynolds@agtech.farm", "name": "Nate Reynolds"}, "campaign_name": "AgTech Outreach", "type": "send", "timestamp": "2024-01-19T09:40:00Z"}
+{"id": "inst_054", "contact": {"email": "owen.fisher@foodtech.com", "name": "Owen Fisher"}, "campaign_name": "Food Tech Campaign", "type": "send", "timestamp": "2024-01-19T10:10:00Z"}
+{"id": "inst_055", "contact": {"email": "riley.wallace@restaurant.biz", "name": "Riley Wallace"}, "campaign_name": "Restaurant Tech Push", "type": "send", "timestamp": "2024-01-19T11:40:00Z"}
+{"id": "inst_056", "contact": {"email": "sara.west@proptech.com", "name": "Sara West"}, "campaign_name": "PropTech Outreach", "type": "send", "timestamp": "2024-01-19T12:10:00Z"}
+{"id": "inst_057", "contact": {"email": "tyler.cole@contech.build", "name": "Tyler Cole"}, "campaign_name": "ConTech Campaign", "type": "send", "timestamp": "2024-01-19T12:40:00Z"}
+{"id": "inst_058", "contact": {"email": "ursula.newman@smartcity.gov", "name": "Ursula Newman"}, "campaign_name": "Smart City Push", "type": "send", "timestamp": "2024-01-19T13:10:00Z"}
+{"id": "inst_059", "contact": {"email": "vince.hanson@mobility.tech", "name": "Vince Hanson"}, "campaign_name": "Mobility Outreach", "type": "send", "timestamp": "2024-01-19T13:40:00Z"}
+{"id": "inst_060", "contact": {"email": "willa.owens@micromobility.com", "name": "Willa Owens"}, "campaign_name": "Micromobility Campaign", "type": "send", "timestamp": "2024-01-19T14:10:00Z"}
+{"id": "inst_061", "contact": {"email": "xavier.kim@drone.tech", "name": "Xavier Kim"}, "campaign_name": "Drone Push", "type": "send", "timestamp": "2024-01-19T14:40:00Z"}
+{"id": "inst_062", "contact": {"email": "yolanda.medina@autonomous.ai", "name": "Yolanda Medina"}, "campaign_name": "Autonomous Outreach", "type": "send", "timestamp": "2024-01-19T15:10:00Z"}
+{"id": "inst_063", "contact": {"email": "alice.johnston@sensors.io", "name": "Alice Johnston"}, "campaign_name": "Sensor Campaign", "type": "send", "timestamp": "2024-01-19T16:10:00Z"}
+{"id": "inst_064", "contact": {"email": "brian.meyer@mapping.tech", "name": "Brian Meyer"}, "campaign_name": "Mapping Push", "type": "send", "timestamp": "2024-01-19T16:40:00Z"}
+{"id": "inst_065", "contact": {"email": "clara.sims@gps.nav", "name": "Clara Sims"}, "campaign_name": "GPS Outreach", "type": "send", "timestamp": "2024-01-20T09:10:00Z"}
+{"id": "inst_066", "contact": {"email": "daniel.cruz@location.tech", "name": "Daniel Cruz"}, "campaign_name": "Location Campaign", "type": "send", "timestamp": "2024-01-20T09:40:00Z"}
+{"id": "inst_067", "contact": {"email": "emily.hunt@geospatial.com", "name": "Emily Hunt"}, "campaign_name": "Geospatial Push", "type": "send", "timestamp": "2024-01-20T10:10:00Z"}
+{"id": "inst_068", "contact": {"email": "fred.watts@satellite.space", "name": "Fred Watts"}, "campaign_name": "Satellite Outreach", "type": "send", "timestamp": "2024-01-20T10:40:00Z"}
+{"id": "inst_069", "contact": {"email": "gail.berry@space.tech", "name": "Gail Berry"}, "campaign_name": "Space Campaign", "type": "send", "timestamp": "2024-01-20T11:10:00Z"}
+{"id": "inst_070", "contact": {"email": "hank.richardson@launch.space", "name": "Hank Richardson"}, "campaign_name": "Launch Push", "type": "send", "timestamp": "2024-01-20T11:40:00Z"}
+{"id": "inst_071", "contact": {"email": "ivy.cox@satellite.comm", "name": "Ivy Cox"}, "campaign_name": "SatComm Outreach", "type": "send", "timestamp": "2024-01-20T12:10:00Z"}
+{"id": "inst_072", "contact": {"email": "jason.howard@earthobs.sat", "name": "Jason Howard"}, "campaign_name": "Earth Obs Campaign", "type": "send", "timestamp": "2024-01-20T12:40:00Z"}
+{"id": "inst_073", "contact": {"email": "kate.ward@remote.sensing", "name": "Kate Ward"}, "campaign_name": "Remote Sensing Push", "type": "send", "timestamp": "2024-01-20T13:10:00Z"}
+{"id": "inst_074", "contact": {"email": "luke.torres@imagery.com", "name": "Luke Torres"}, "campaign_name": "Imagery Outreach", "type": "send", "timestamp": "2024-01-20T13:40:00Z"}
+{"id": "inst_075", "contact": {"email": "molly.peterson@weather.sat", "name": "Molly Peterson"}, "campaign_name": "Weather Campaign", "type": "send", "timestamp": "2024-01-20T14:10:00Z"}
+{"id": "inst_076", "contact": {"email": "neil.gray@climate.data", "name": "Neil Gray"}, "campaign_name": "Climate Push", "type": "send", "timestamp": "2024-01-20T14:40:00Z"}
+{"id": "inst_077", "contact": {"email": "oscar.ramirez@ocean.tech", "name": "Oscar Ramirez"}, "campaign_name": "Ocean Outreach", "type": "send", "timestamp": "2024-01-20T15:10:00Z"}
+{"id": "inst_078", "contact": {"email": "patty.james@marine.bio", "name": "Patty James"}, "campaign_name": "Marine Campaign", "type": "send", "timestamp": "2024-01-20T15:40:00Z"}
+{"id": "inst_079", "contact": {"email": "robert.kim@aquaculture.fish", "name": "Robert Kim"}, "campaign_name": "Aquaculture Push", "type": "send", "timestamp": "2024-01-20T16:10:00Z"}
+{"id": "inst_080", "contact": {"email": "sophia.lee@fisheries.com", "name": "Sophia Lee"}, "campaign_name": "Fisheries Outreach", "type": "send", "timestamp": "2024-01-20T16:40:00Z"}
+{"id": "inst_081", "contact": {"email": "thomas.park@maritime.ship", "name": "Thomas Park"}, "campaign_name": "Maritime Campaign", "type": "send", "timestamp": "2024-01-21T09:10:00Z"}
+{"id": "inst_082", "contact": {"email": "una.choi@shipping.logistics", "name": "Una Choi"}, "campaign_name": "Shipping Push", "type": "send", "timestamp": "2024-01-21T09:40:00Z"}
+{"id": "inst_083", "contact": {"email": "victor.jung@port.tech", "name": "Victor Jung"}, "campaign_name": "Port Outreach", "type": "send", "timestamp": "2024-01-21T10:10:00Z"}
+{"id": "inst_084", "contact": {"email": "wendy.han@cargo.track", "name": "Wendy Han"}, "campaign_name": "Cargo Campaign", "type": "send", "timestamp": "2024-01-21T10:40:00Z"}
+{"id": "inst_085", "contact": {"email": "xavier.yoon@vessel.monitor", "name": "Xavier Yoon"}, "campaign_name": "Vessel Push", "type": "send", "timestamp": "2024-01-21T11:10:00Z"}
+{"id": "inst_086", "contact": {"email": "yuki.tanaka@fleet.manage", "name": "Yuki Tanaka"}, "campaign_name": "Fleet Outreach", "type": "send", "timestamp": "2024-01-21T11:40:00Z"}
+{"id": "inst_087", "contact": {"email": "zane.suzuki@supply.chain", "name": "Zane Suzuki"}, "campaign_name": "Supply Chain Campaign", "type": "send", "timestamp": "2024-01-21T12:10:00Z"}
+{"id": "inst_088", "contact": {"email": "amy.watanabe@warehouse.auto", "name": "Amy Watanabe"}, "campaign_name": "Warehouse Push", "type": "send", "timestamp": "2024-01-21T12:40:00Z"}
+{"id": "inst_089", "contact": {"email": "brad.nakamura@inventory.tech", "name": "Brad Nakamura"}, "campaign_name": "Inventory Outreach", "type": "send", "timestamp": "2024-01-21T13:10:00Z"}
+{"id": "inst_090", "contact": {"email": "carol.yamamoto@fulfillment.com", "name": "Carol Yamamoto"}, "campaign_name": "Fulfillment Campaign", "type": "send", "timestamp": "2024-01-21T13:40:00Z"}
+{"id": "inst_091", "contact": {"email": "dave.sato@3pl.logistics", "name": "Dave Sato"}, "campaign_name": "3PL Push", "type": "send", "timestamp": "2024-01-21T14:10:00Z"}
+{"id": "inst_092", "contact": {"email": "eve.fujita@lastmile.delivery", "name": "Eve Fujita"}, "campaign_name": "Last Mile Outreach", "type": "send", "timestamp": "2024-01-21T14:40:00Z"}
+{"id": "inst_093", "contact": {"email": "frank.ishikawa@returns.tech", "name": "Frank Ishikawa"}, "campaign_name": "Returns Campaign", "type": "send", "timestamp": "2024-01-21T15:10:00Z"}
+{"id": "inst_094", "contact": {"email": "grace.ito@packaging.tech", "name": "Grace Ito"}, "campaign_name": "Packaging Push", "type": "send", "timestamp": "2024-01-21T15:40:00Z"}
+{"id": "inst_095", "contact": {"email": "henry.kobayashi@procurement.biz", "name": "Henry Kobayashi"}, "campaign_name": "Procurement Outreach", "type": "send", "timestamp": "2024-01-21T16:10:00Z"}
+{"id": "inst_096", "contact": {"email": "iris.matsumoto@sourcing.global", "name": "Iris Matsumoto"}, "campaign_name": "Sourcing Campaign", "type": "send", "timestamp": "2024-01-21T16:40:00Z"}
+{"id": "inst_097", "contact": {"email": "jack.hayashi@vendor.manage", "name": "Jack Hayashi"}, "campaign_name": "Vendor Push", "type": "send", "timestamp": "2024-01-22T09:10:00Z"}
+{"id": "inst_098", "contact": {"email": "karen.takahashi@supplier.net", "name": "Karen Takahashi"}, "campaign_name": "Supplier Outreach", "type": "send", "timestamp": "2024-01-22T09:40:00Z"}
+{"id": "inst_099", "contact": {"email": "leo.nomura@contract.manage", "name": "Leo Nomura"}, "campaign_name": "Contract Campaign", "type": "send", "timestamp": "2024-01-22T10:10:00Z"}
+{"id": "inst_100", "contact": {"email": "mina.yoshida@spend.analytics", "name": "Mina Yoshida"}, "campaign_name": "Spend Analytics Push", "type": "send", "timestamp": "2024-01-22T10:40:00Z"}
